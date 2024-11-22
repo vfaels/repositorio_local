@@ -2,3 +2,4 @@ Receita de bolo
 - Farinha
 - Ovos
 - Leite
+- Chocolate
