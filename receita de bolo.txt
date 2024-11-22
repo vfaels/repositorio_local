@@ -3,3 +3,5 @@ Receita de bolo
 - Ovos
 - Leite
 - Chocolate
+- Manteiga
+- Cenoura
